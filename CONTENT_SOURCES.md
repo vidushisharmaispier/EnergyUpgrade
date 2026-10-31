@@ -28,3 +28,7 @@ Source base: https://energyupgradesolutions.com.au/wp-content/uploads/
 - brands.png: 2026/08/brands-1.png
 
 Customer reviews are clearly identified summaries of published accounts, without invented quotations or ratings.
+
+Reviews refreshed from the homepage: all six displayed reviewers are represented with attributed paraphrases (Sia Sha, Best Bros, Athira P Suresh, Wood Hansan, Krishan Verma, Shivani Jadhav). The Read All Reviews link points to https://share.google/7EIjxX0Q6ZNfeMTeM as published on the source. No aggregate rating or review dates are inferred.
+
+Individual testimonial ratings verified in the original homepage HTML: each of the six named reviews contains five filled ti-star elements. Cards show those individual five-star ratings, customer initials, Google attribution and service tags. Review prose remains explicitly identified as summaries; no aggregate score or review dates are inferred.
